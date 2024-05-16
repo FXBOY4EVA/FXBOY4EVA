@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FXBOY4EVA
-- 👀 I’m interested in bash, containers, breaking thing and fixing them
+- 👀 I’m interested in bash, containers, breaking things and fixing them
 - 🌱 I’m currently learning ... stuff
 - 💞️ I’m looking to collaborate on ... not much right now, maybe later
 - 📫 How to reach me ... not at the moment please.
